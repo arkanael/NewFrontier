@@ -9,7 +9,9 @@
     <Folder Include="Contracts\Handlers\" />
     <Folder Include="Contracts\Repositories\" />
     <Folder Include="Contracts\Results\" />
-    <Folder Include="Entities\" />
+    <Folder Include="Commands\" />
+    <Folder Include="Handlers\" />
+    <Folder Include="Results\" />
   </ItemGroup>
 
 </Project>
