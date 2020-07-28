@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Contracts\Commands\" />
+    <Folder Include="Contracts\Handlers\" />
+    <Folder Include="Contracts\Repositories\" />
+    <Folder Include="Contracts\Results\" />
+    <Folder Include="Entities\" />
+  </ItemGroup>
+
+</Project>
